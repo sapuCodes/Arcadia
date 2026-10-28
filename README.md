@@ -7,7 +7,7 @@
 <body>
     <header>
         <h1># Arcadia </h1>
-        <p>Simple android app that contains fun mini games with offline highscore board. Compete With yourself..</p>
+        <p>Simple android app that contains fun mini games with offline highscore board. Compete With yourself.</p>
     </header>
     <section>
       <img src="ss/1.jpg" alt="A descriptive alt text">
