@@ -41,4 +41,4 @@ Arcadia was developed as an Android application project focused on bringing mini
 2. Open the project using a compatible Android development environment.
 3. Configure the required SDKs and dependencies.
 4. Build and run the application on a compatible Android device or emulator.
-5. An apk file will be added to here later..
+5. An apk file will be added to here in the future..
