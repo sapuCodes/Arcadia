@@ -35,25 +35,9 @@ Explore the application's interface and gameplay.
 
 Arcadia was developed as an Android application project focused on bringing mini-games and local high-score tracking together in a simple gaming experience.
 
-## 🛠️ Technologies
-
-*Add the programming language, Android framework, development tools, and storage technologies used in this project here once verified.*
-
 ## 🚀 Getting Started
 
 1. Clone or download this repository.
 2. Open the project using a compatible Android development environment.
 3. Configure the required SDKs and dependencies.
 4. Build and run the application on a compatible Android device or emulator.
-
-*Note: The exact build instructions depend on the project's configuration.*
-
-## 👨‍💻 Author
-
-**Sapu**
-
-- GitHub: [@sapuCodes](https://github.com/sapuCodes)
-
----
-
-*Arcadia — Play, improve, and beat your own high scores.*
