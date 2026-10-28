@@ -123,7 +123,7 @@ class _SnakeGameState extends State<SnakeGame> {
   final currentScore = snakePosition.length - 5; // Get the final score
 
   // Load existing high score
-  final existingHighScore = await HighScoreService.loadHighScore('Snake Game');
+  final existingHighScore = await HighScoreService.loadHighScore('Snake-Game');
 
   // Check if the new score is higher than the existing high score
   if (currentScore > existingHighScore) {
