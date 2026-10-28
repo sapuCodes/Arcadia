@@ -123,7 +123,7 @@ class _AppleOfFortuneState extends State<AppleOfFortune> {
       });
     } else {
       setState(() {
-        result = 'Invalid bet. You cannot bet more than your total coins.';
+        result = 'Invalid bet. You cannot bet more than your total coins!';
       });
     }
   }
