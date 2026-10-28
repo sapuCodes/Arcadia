@@ -84,7 +84,7 @@ class _AppleOfFortuneState extends State<AppleOfFortune> {
     setState(() {
       revealedRows[rowIndex] = true;
       if (gameBoard[rowIndex][cellIndex]) {
-        result = 'Oops! Rotten apple in row ${rowIndex + 1}. You lost!';
+        result = 'Oops! Rotten apple in row ${rowIndex + 1}. You lost!!';
         coins -= betAmount; // Subtract bet if lost
         if (coins < 0) coins = 0; // Prevent coins from going below zero
         isGameOver = true;
