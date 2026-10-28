@@ -11,12 +11,12 @@
     </header>
     <section>
       <img src="1.jpg" alt="A descriptive alt text">
-        <img src="ss/2.jpg" alt="A descriptive alt text">
-      <img src="ss/3.jpg" alt="A descriptive alt text">
-      <img src="ss/4.jpg" alt="A descriptive alt text">
-      <img src="ss/5.jpg" alt="A descriptive alt text">
-      <img src="ss/6.jpg" alt="A descriptive alt text">
-      <img src="ss/7.jpg" alt="A descriptive alt text">
+        <img src="2.jpg" alt="A descriptive alt text">
+      <img src="3.jpg" alt="A descriptive alt text">
+      <img src="4.jpg" alt="A descriptive alt text">
+      <img src="5.jpg" alt="A descriptive alt text">
+      <img src="6.jpg" alt="A descriptive alt text">
+      <img src="7.jpg" alt="A descriptive alt text">
     </section>
 </body>
 </html>
