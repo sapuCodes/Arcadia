@@ -255,7 +255,7 @@ class _AppleOfFortuneState extends State<AppleOfFortune> {
             if (betAmount > 0 && !isGameOver)
               ElevatedButton(
                 onPressed: collectWinnings,
-                child: const Text('Collect Winnings'),
+                child: const Text('Collect Winnings!'),
                 style: ElevatedButton.styleFrom(backgroundColor: Colors.green),
               ),
           ],
