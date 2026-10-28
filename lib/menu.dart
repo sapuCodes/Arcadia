@@ -103,7 +103,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
                 ScaleTransition(
                   scale: _titleController,
                   child: const Text(
-                    "Let's Play & Relax!",
+                    "Let's Play & Relax!!",
                     style: TextStyle(
                       color: Colors.red,
                       fontSize: 30,
